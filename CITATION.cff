@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "Please cite this public research showcase; the synthetic preview is not experimental evidence."
+title: "OBSCURA: Metamaterial Observability Lab and Virtual Drone Lab Public Preview"
+authors:
+  - family-names: Salnave
+    given-names: Christopher
+type: software
+version: "drone-preview-1.0"
+date-released: "2026-09-27"
+url: "https://github.com/csalnav2/obscura-metamaterial-observability-lab"
+license: Apache-2.0
