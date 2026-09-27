@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+preview-output/
+.env
+.env.*
+!.env.example
+*private*/
+*.npz
+*.ipynb
+virtual_drone_lab_colab_complete*.py
